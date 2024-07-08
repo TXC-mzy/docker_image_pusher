@@ -12,5 +12,6 @@ bitnami/kafka:2.4.0-r7
 
 zookeeper:3.8.0
 
+apache/rocketmq:4.9.2
 
 
